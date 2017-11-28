@@ -29,3 +29,4 @@ se basará en turnos semanales, bisemanales o mensuales.
 acorde a las diferentes posibilidades que la plataforma Rosalind proporcione en ese momento.
 4. A partir de ese momento, los participantes tendrán hasta el último domingo del final de turno 
 para completar el problema y subirlo al repositorio.
+
