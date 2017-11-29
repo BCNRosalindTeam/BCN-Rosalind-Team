@@ -17,10 +17,11 @@ Al iniciar el grupo se ha sorteado el orden de cada uno de los participantes par
 * 3.- Jon
 * 4.- Manu
 * 5.- Vicky
-* 6.- Jesus
-* 7.- Joan Marc
+* 6.- Jose A.
 
 --------------
+
+## First steps
 
 1. El sistema propuesto para la resolución conjunta de los problemas Rosalind por parte de los participantes 
 se basará en turnos semanales, bisemanales o mensuales.
