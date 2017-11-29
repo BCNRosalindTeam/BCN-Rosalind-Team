@@ -13,15 +13,15 @@ Al iniciar el grupo se ha sorteado el orden de cada uno de los participantes par
 --------------
 
 * 1.- Alba
-* 2.- Dani
-* 3.- Jon
-* 4.- Manu
+* 2.- Dani (http://rosalind.info/users/dmance/)
+* 3.- Jon (http://rosalind.info/users/jaldazabal/)
+* 4.- Manu (http://rosalind.info/users/ManuLH/)
 * 5.- Vicky
 * 6.- Jose A.
 
 --------------
 
-## First steps
+## Methodology
 
 1. El sistema propuesto para la resolución conjunta de los problemas Rosalind por parte de los participantes 
 se basará en turnos semanales, bisemanales o mensuales.
@@ -30,4 +30,4 @@ se basará en turnos semanales, bisemanales o mensuales.
 acorde a las diferentes posibilidades que la plataforma Rosalind proporcione en ese momento.
 4. A partir de ese momento, los participantes tendrán hasta el último domingo del final de turno 
 para completar el problema y subirlo al repositorio.
-
+5. Los participantes pueden proponer en su turno, cualquier otro tipo de problema relacionado con la bioinformática fuera del contexto de la plataforma Rosalind. 
