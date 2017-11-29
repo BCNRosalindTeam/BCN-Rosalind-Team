@@ -1,8 +1,8 @@
-# BCN-Rosalind-Team
+# BCN Rosalind Team
 
 ## About
-El proposito de este grupo es resolver periodicamente problemas de la plataforma bioinformática Rosalind.
-http://rosalind.info
+El proposito de este grupo es resolver periodicamente problemas de la plataforma bioinformática Rosalind (http://rosalind.info).
+
 Con esto buscamos aprender diferentes formas de desarrollar un mismo problema y aprender nuevos conocimientos de bioinformática, así como mantener el contacto con otras personas interesadas en este mismo ámbito.
 
 ## Before Starting
