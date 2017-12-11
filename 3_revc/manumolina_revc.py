@@ -10,8 +10,6 @@
  * @python version: 3.6.3 Anaconda
 */
 '''
-from functools import reduce
-
 dict = {
 'A':'T',
 'C':'G',
@@ -21,12 +19,7 @@ dict = {
 
 str = "AAAACCCGGT"
 for key in dict:
-	print(key)
-	print(dict[key])
-	print(str)
 	str = str.replace(key, dict[key])
-	print(str)
-    #print ("-----------------")
 
 print(str)
 
